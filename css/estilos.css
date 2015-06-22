@@ -1,0 +1,72 @@
+.form-login{
+	margin: 10% auto;
+	max-width: 300px;
+	text-align: center;
+}
+.imagen img{
+	max-width: 200px;
+	margin: 0 auto;
+	display: block;
+}
+.panel-default button{
+	margin: 10px 0 0 0;
+}
+.navbar-brand,
+.icon-bar{
+	color: #fafafa !important;
+}
+.dropdown .dropdown-toggle{
+	color: #fafafa !important;
+	font-size: 1.2em;
+}
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #fafafa;
+}
+.navbar-inverse .navbar-toggle{
+	-moz-transition: all .1s ease-in;
+    -o-transition: all .1s ease-in;
+    -webkit-transition: all .1s ease-in;
+    transition: all .1s ease-in;
+}
+.navbar-inverse .navbar-toggle:hover {
+    background-color: #0288D1;
+}
+
+#principal{
+	float: none;
+	margin: 0 auto;
+}
+#contenidotab{
+	margin: 20px 0 0 0;
+}
+h4{
+	text-align: center;
+}
+select{
+	margin-bottom: 20px;
+}
+.control-label{
+	font-size: 1.3em;
+}
+
+@media (min-width: 600px) {
+	#personal_general td{
+		font-size: 1.4em;
+	}
+}
+.modal-body h5{
+	text-align: center;
+}
+.modal-body .glyphicon{
+	margin-right: 5px;
+}
+.panel-heading{
+	font-size: 1.3em;
+	padding: 10px 0 8px; 0;
+	text-align: center;
+}
+td .btn,
+th .btn{
+	display: block;
+	margin: 0 auto;
+}
